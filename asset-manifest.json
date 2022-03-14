@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Huddle/static/css/main.4d58bb90.css",
+    "main.js": "/Huddle/static/js/main.772532d9.js",
+    "static/js/787.85ed7ac4.chunk.js": "/Huddle/static/js/787.85ed7ac4.chunk.js",
+    "index.html": "/Huddle/index.html",
+    "main.4d58bb90.css.map": "/Huddle/static/css/main.4d58bb90.css.map",
+    "main.772532d9.js.map": "/Huddle/static/js/main.772532d9.js.map",
+    "787.85ed7ac4.chunk.js.map": "/Huddle/static/js/787.85ed7ac4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d58bb90.css",
+    "static/js/main.772532d9.js"
+  ]
+}
