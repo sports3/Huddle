@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Huddle/static/css/main.d9e3ebb0.css",
-    "main.js": "/Huddle/static/js/main.b9d5452b.js",
+    "main.css": "/Huddle/static/css/main.fc2ce7fc.css",
+    "main.js": "/Huddle/static/js/main.11a79001.js",
     "static/js/787.85ed7ac4.chunk.js": "/Huddle/static/js/787.85ed7ac4.chunk.js",
     "index.html": "/Huddle/index.html",
-    "main.d9e3ebb0.css.map": "/Huddle/static/css/main.d9e3ebb0.css.map",
-    "main.b9d5452b.js.map": "/Huddle/static/js/main.b9d5452b.js.map",
+    "main.fc2ce7fc.css.map": "/Huddle/static/css/main.fc2ce7fc.css.map",
+    "main.11a79001.js.map": "/Huddle/static/js/main.11a79001.js.map",
     "787.85ed7ac4.chunk.js.map": "/Huddle/static/js/787.85ed7ac4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d9e3ebb0.css",
-    "static/js/main.b9d5452b.js"
+    "static/css/main.fc2ce7fc.css",
+    "static/js/main.11a79001.js"
   ]
 }
